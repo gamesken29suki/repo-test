@@ -24,7 +24,7 @@ winget install Git.Git
 # Usage
  
 ```bash
-git clone https://github.com/repo-test/
+git clone https://github.com/gamesken29suki/repo-test/
 ```
  
 # Note
